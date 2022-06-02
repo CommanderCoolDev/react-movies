@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CommanderCoolDev/react-movies/static/css/main.8db29274.css",
-    "main.js": "/CommanderCoolDev/react-movies/static/js/main.f7b44287.js",
+    "main.js": "/CommanderCoolDev/react-movies/static/js/main.e98448ff.js",
     "index.html": "/CommanderCoolDev/react-movies/index.html",
     "main.8db29274.css.map": "/CommanderCoolDev/react-movies/static/css/main.8db29274.css.map",
-    "main.f7b44287.js.map": "/CommanderCoolDev/react-movies/static/js/main.f7b44287.js.map"
+    "main.e98448ff.js.map": "/CommanderCoolDev/react-movies/static/js/main.e98448ff.js.map"
   },
   "entrypoints": [
     "static/css/main.8db29274.css",
-    "static/js/main.f7b44287.js"
+    "static/js/main.e98448ff.js"
   ]
 }
